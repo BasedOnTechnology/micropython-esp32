@@ -1,8 +1,0 @@
-ESPIDF = esp-idf
-PORT = /dev/ttyUSB1
-FLASH_MODE = dio
-FLASH_SIZE = 4MB
-BAUD = 460800
-#ROSS_COMPILE = xtensa-esp32-elf-
-
-include Makefile
